@@ -1,4 +1,4 @@
-<h1 align="center">📊 Looker Studio Test Dataset</h1>
+<h1 align="center">📊 Retail-Dashboard-Looker-Studio
 
 <p align="center">
   Dataset Excel prêt à l'emploi pour tester Looker Studio (dashboard, filtres, iframe)
