@@ -41,6 +41,7 @@ Fichier : `looker_studio_test_data.xlsx`
 - Google Looker Studio
 
 ## Resultat
+Lien: https://lookerstudio.google.com/s/ubMrdVvCYkI
 <img src="https://github.com/Pierre-Portfolio/Retail-Dashboard-Looker-Studio/blob/main/result.png" alt="resultat" />
 
 ## Auteur
