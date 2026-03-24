@@ -1,12 +1,10 @@
 <h1 align="center">📊 Looker Studio Test Dataset</h1>
 
 <p align="center">
-  <img src="star.gif" alt="demo" width="200"/>
-</p>
-
-<p align="center">
   Dataset Excel prêt à l'emploi pour tester Looker Studio (dashboard, filtres, iframe)
 </p>
+
+<img src="https://github.com/Pierre-Portfolio/MarathonInscription/blob/main/assets/images/github/star.gif" alt="star" />
 
 ---
 
@@ -38,3 +36,16 @@ Fichier : `looker_studio_test_data.xlsx`
 | Unit_Price | Prix |
 | Revenue | Chiffre d’affaires |
 | Customer_Type | New / Returning |
+
+## Technologies
+- Google Looker Studio
+
+## Resultat
+<img src="https://github.com/Pierre-Portfolio/Retail-Dashboard-Looker-Studio/blob/main/result.png" alt="resultat" />
+
+## Auteur
+- [Pierre Petillion](https://github.com/Pierre-Portfolio/)
+
+---
+
+<p align="center">Projet réalisé en 2026.</p>
