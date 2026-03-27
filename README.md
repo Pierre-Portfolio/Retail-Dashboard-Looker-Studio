@@ -44,6 +44,8 @@ Fichier : `looker_studio_test_data.xlsx`
 Lien: https://lookerstudio.google.com/s/ubMrdVvCYkI
 <img src="https://github.com/Pierre-Portfolio/Retail-Dashboard-Looker-Studio/blob/main/result.png" alt="resultat" />
 
+<iframe width="600" height="450" src="https://lookerstudio.google.com/embed/reporting/7941a501-3a77-4112-b24a-9abe81bda5e9/page/XB7sF" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
+
 ## Auteur
 - [Pierre Petillion](https://github.com/Pierre-Portfolio/)
 
